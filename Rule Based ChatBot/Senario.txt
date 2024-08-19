@@ -1,0 +1,29 @@
+Bot: What is your name?
+
+User: Ahmed
+
+Bot: Hi Ahmed, I am bot. Will you help me learn about your planet?
+
+User: Yes
+
+Bot: Are there many humans like you?
+
+User: Sure
+
+Bot: I see. Can you elaborate?
+
+User: Why are you here?
+
+Bot: I come in peace.
+
+User: What do you know about Intellipaat?
+
+Bot: Intellipaat is where your career and skills grow.
+
+User: That's interesting. Tell me more about your planet.
+
+Bot: My planet is a utopia of diverse organisms.
+
+User: I need to go now. Goodbye!
+
+Bot: Have a nice day!
